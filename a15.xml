@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Llucs/android_device_samsung_a15" path="device/samsung/a15" remote="github" revision="main" />
+  <project name="Llucs/android_device_samsung_a15" path="device/samsung/a15" revision="main" />
   
-  <project name="Llucs/android_kernel_samsung_a15" path="kernel/samsung/a15" remote="github" revision="main" />
+  <project name="Llucs/android_kernel_samsung_a15" path="kernel/samsung/a15" revision="main" />
   
-  <project name="Llucs/android_vendor_samsung_a15" path="vendor/samsung/a15" remote="github" revision="main" />
-
+  <project name="Llucs/android_vendor_samsung_a15" path="vendor/samsung/a15" revision="main" />
 </manifest>
